@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72ab27cb-4d43-41dd-893c-7b45d7ca068e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/EnhancedForStatement/SumDouble.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CommandLineArguments/InitArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/com/company/CommandLineArguments/InitArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/com/company/DuplicateElimination/Duplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/com/company/EnhancedForStatement/SumDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/com/company/VariableLenght/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CommandLine.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +26,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UVjRlPocjaSPRQU81epvZbiZre" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
@@ -47,7 +49,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumDouble">
+  <component name="RunManager" selected="Application.CommandLineArguments">
+    <configuration name="CommandLineArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CommandLineArguments" />
+      <module name="Chapter7" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Duplicate" />
       <module name="Chapter7" />
@@ -75,16 +91,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Chapter7" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Product" />
       <module name="Chapter7" />
@@ -94,6 +100,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RollingOfTwoDice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RollingOfTwoDice" />
+      <module name="Chapter7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,17 +127,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.InitArray" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Duplicate" />
       <item itemvalue="Application.Product" />
       <item itemvalue="Application.SumDouble" />
+      <item itemvalue="Application.RollingOfTwoDice" />
+      <item itemvalue="Application.CommandLineArguments" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommandLineArguments" />
+        <item itemvalue="Application.RollingOfTwoDice" />
         <item itemvalue="Application.SumDouble" />
         <item itemvalue="Application.Product" />
         <item itemvalue="Application.Duplicate" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
