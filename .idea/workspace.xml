@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72ab27cb-4d43-41dd-893c-7b45d7ca068e" name="Default Changelist" comment="" />
+    <list default="true" id="72ab27cb-4d43-41dd-893c-7b45d7ca068e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/EnhancedForStatement/SumDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CommandLineArguments/InitArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +22,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UVjRlPocjaSPRQU81epvZbiZre" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InitArray">
+  <component name="RunManager" selected="Application.SumDouble">
     <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.DuplicateElimination.Duplicate" />
       <module name="Chapter7" />
@@ -42,7 +56,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InitArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="InitArray" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CommandLineArguments.InitArray" />
       <module name="Chapter7" />
       <option name="PROGRAM_PARAMETERS" value="3 5 6" />
@@ -79,15 +93,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.EnhancedForStatement.SumDouble" />
+      <module name="Chapter7" />
+      <option name="PROGRAM_PARAMETERS" value="1.2 2.4 3.6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.EnhancedForStatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.InitArray" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Duplicate" />
       <item itemvalue="Application.Product" />
-      <item itemvalue="Application.InitArray" />
+      <item itemvalue="Application.SumDouble" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InitArray" />
+        <item itemvalue="Application.SumDouble" />
         <item itemvalue="Application.Product" />
         <item itemvalue="Application.Duplicate" />
         <item itemvalue="Application.Main" />
@@ -107,15 +136,17 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/DuplicateElimination/Duplicate.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
