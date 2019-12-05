@@ -1,4 +1,4 @@
-package com.company.DuplicateElimination;
+package com.company;
 
 import java.util.Scanner;
 

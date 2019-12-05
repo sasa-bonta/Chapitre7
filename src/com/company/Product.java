@@ -1,4 +1,4 @@
-package com.company.VariableLenght;
+package com.company;
 
 import java.util.Scanner;
 

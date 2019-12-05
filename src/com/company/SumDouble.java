@@ -1,4 +1,4 @@
-package com.company.EnhancedForStatement;
+package com.company;
 
 public class SumDouble {
 

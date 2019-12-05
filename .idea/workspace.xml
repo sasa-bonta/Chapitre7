@@ -30,6 +30,11 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.CommandLineArguments" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -44,11 +49,11 @@
   </component>
   <component name="RunManager" selected="Application.SumDouble">
     <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DuplicateElimination.Duplicate" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Duplicate" />
       <module name="Chapter7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.DuplicateElimination.*" />
+          <option name="PATTERN" value="com.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,11 +86,11 @@
       </method>
     </configuration>
     <configuration name="Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.VariableLenght.Product" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Product" />
       <module name="Chapter7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.VariableLenght.*" />
+          <option name="PATTERN" value="com.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +99,12 @@
       </method>
     </configuration>
     <configuration name="SumDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.EnhancedForStatement.SumDouble" />
+      <option name="MAIN_CLASS_NAME" value="com.company.SumDouble" />
       <module name="Chapter7" />
       <option name="PROGRAM_PARAMETERS" value="1.2 2.4 3.6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.EnhancedForStatement.*" />
+          <option name="PATTERN" value="com.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
