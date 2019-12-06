@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="72ab27cb-4d43-41dd-893c-7b45d7ca068e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/com/company/CommandLineArguments/InitArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/com/company/DuplicateElimination/Duplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/com/company/EnhancedForStatement/SumDouble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter7/com/company/VariableLenght/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CommandLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DiceRolling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DiceRolling.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CommandLineArguments">
+  <component name="RunManager" selected="Application.Craps">
     <configuration name="CommandLineArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CommandLineArguments" />
       <module name="Chapter7" />
@@ -64,8 +60,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Duplicate" />
+    <configuration name="Craps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Craps" />
+      <module name="Chapter7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiceRolling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DiceRolling" />
       <module name="Chapter7" />
       <extension name="coverage">
         <pattern>
@@ -84,19 +93,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.CommandLineArguments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Product" />
-      <module name="Chapter7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,19 +123,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.InitArray" />
-      <item itemvalue="Application.Duplicate" />
-      <item itemvalue="Application.Product" />
       <item itemvalue="Application.SumDouble" />
       <item itemvalue="Application.RollingOfTwoDice" />
       <item itemvalue="Application.CommandLineArguments" />
+      <item itemvalue="Application.DiceRolling" />
+      <item itemvalue="Application.Craps" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Craps" />
+        <item itemvalue="Application.DiceRolling" />
         <item itemvalue="Application.CommandLineArguments" />
         <item itemvalue="Application.RollingOfTwoDice" />
         <item itemvalue="Application.SumDouble" />
-        <item itemvalue="Application.Product" />
-        <item itemvalue="Application.Duplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -168,5 +164,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Craps.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
